@@ -3,7 +3,7 @@ Wrapper for better enums C++ library that makes it a legit Cmake component
 
 # Motivation
 
-To reduce copy-pastes when I want to use explicitly in my CMakes. Plus to train Lua a little.
+To reduce copy-pastes when I want to use explicitly in my CMake files.
 
 # Usage
 If you don't want to use the version used here (0.11.3):
